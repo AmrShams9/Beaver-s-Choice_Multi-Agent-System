@@ -13,7 +13,7 @@
       background: #f9fafc;
       color: #222;
     }
-    h1, h2, h3, h4 {
+    h1, h2, h3 {
       color: #333;
     }
     code {
@@ -66,8 +66,8 @@
   <div class="section">
     <h2>📖 Project Overview</h2>
     <img src="Screenshot%202025-09-28%20175831.png" alt="System Test Screenshot">
-    <p><strong>BeaverChoice</strong> is a multi-agent order processing system that simulates real-world workflows for handling customer requests. 
-    It uses a <strong>modular agent-based architecture</strong> to process orders from request to transaction, ensuring <strong>scalability, maintainability, and extensibility</strong>.</p>
+    <p><strong>BeaverChoice</strong> is a multi-agent order processing system that simulates real-world workflows for handling customer requests.
+      It uses a <strong>modular agent-based architecture</strong> to process orders from request to transaction, ensuring scalability, maintainability, and extensibility.</p>
   </div>
 
   <div class="section">
@@ -117,7 +117,7 @@ venv\Scripts\activate      # On Windows</code></pre>
 
   <div class="section">
     <h2>🚀 Usage Guidelines</h2>
-    <p>Enter a customer request (e.g., <em>“I need 50 sheets of heavy cardstock”</em>). The agents will process the request step by step.</p>
+    <p>Enter a customer request (e.g., <em>"I need 50 sheets of heavy cardstock"</em>). The agents will process the request step by step.</p>
     <ul>
       <li>✅ Successful order confirmation</li>
       <li>⚠️ Clarification request</li>
@@ -221,7 +221,7 @@ venv\Scripts\activate      # On Windows</code></pre>
 
   <div class="section">
     <h2>📌 Conclusion</h2>
-    <p><strong>BeaverChoice</strong> demonstrates a <strong>functional, modular, and extensible multi-agent architecture</strong> for order processing. 
+    <p><strong>BeaverChoice</strong> demonstrates a <strong>functional, modular, and extensible multi-agent architecture</strong> for order processing.
     It successfully handles realistic workflows but needs improvements in <strong>catalog matching, fallback handling, and scalability</strong> to reach production-level robustness.</p>
   </div>
 
