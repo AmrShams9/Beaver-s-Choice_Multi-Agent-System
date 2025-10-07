@@ -1,0 +1,81 @@
+request_id,request_date,cash_balance,inventory_value,response
+1,2025-04-01,43012.41,6987.59,"{""status"": ""clarification_required"", ""reason"": ""Some items could not be confidently matched to inventory."", ""unknown_items"": [{""requested"": ""heavy cardstock"", ""suggestions"": [""Cardstock""]}, {""requested"": ""colored paper"", ""suggestions"": [""Colored paper""]}]}"
+2,2025-04-03,43012.41,6987.59,"{""status"": ""clarification_required"", ""reason"": ""Some items could not be confidently matched to inventory."", ""unknown_items"": [{""requested"": ""balloons"", ""suggestions"": [""Table covers"", ""Invitation cards"", ""Paper plates""]}]}"
+3,2025-04-04,43012.41,6987.59,Ordering Error: The order exceeds the current maximum order amount. Please contact support or reduce the order.
+4,2025-04-05,43062.41,6937.590000000001,"125, Thank you for your order! Here’s the breakdown of the costs for your paper supplies:
+
+- **500 sheets of Cardstock** at $0.15 each: $75.00
+- **250 sheets of Glossy Paper** at $0.20 each: $50.00
+
+**Total Amount Before Discounts:** $125.00
+
+We are pleased to offer you a discount for this order, rounding your total to a friendly figure:
+
+**Discounted Total Amount:** $125.00
+
+Thank you for choosing us for your paper supplies!, {""request_date"": ""2025-04-05"", ""expected_delivery_date"": ""2025-04-15"", ""items"": [{""item_name"": ""Cardstock"", ""quantity"": 500, ""unit_price"": 0.15}, {""item_name"": ""Glossy paper"", ""quantity"": 250, ""unit_price"": 0.2}]}"
+5,2025-04-05,43062.41,6937.590000000001,"{""status"": ""clarification_required"", ""reason"": ""Some items could not be confidently matched to inventory."", ""unknown_items"": [{""requested"": ""cardstock"", ""suggestions"": [""Cardstock""]}]}"
+6,2025-04-06,43092.41,6907.590000000001,"215, Hello! Thank you for your order. Here are the details of your quote for the paper supplies:
+
+- 500 sheets of Photo paper at $0.25 each
+- 300 sheets of Glossy paper at $0.20 each
+- 200 sheets of Cardstock at $0.15 each
+
+The total amount before any discounts is $215.00. After applying our pricing policies, your final total is also $215.00. 
+
+We appreciate your business and look forward to delivering these supplies by April 15, 2025!, {""request_date"": ""2025-04-06"", ""expected_delivery_date"": ""2025-04-15"", ""items"": [{""item_name"": ""Photo paper"", ""quantity"": 500, ""unit_price"": 0.25}, {""item_name"": ""Glossy paper"", ""quantity"": 300, ""unit_price"": 0.2}, {""item_name"": ""Cardstock"", ""quantity"": 200, ""unit_price"": 0.15}]}"
+7,2025-04-07,43351.91,6577.590000000001,"605, Thank you for your order! Here are the details of your quote:
+
+- **A4 Paper**: 500 sheets at $0.045 each = $22.50
+- **220 gsm Poster Paper**: 1000 sheets at $0.315 each = $315.00
+- **Large Poster Paper (24x36 inches)**: 300 sheets at $0.90 each = $270.00
+- **Cardstock**: 200 sheets at $0.135 each = $27.00
+
+**Total before discounts**: $705.00
+
+After applying the relevant discounts, your total comes to:
+
+**Total after discounts**: $605.00
+
+We appreciate your business and look forward to assisting you further!, {""request_date"": ""2025-04-07"", ""expected_delivery_date"": ""2025-04-15"", ""items"": [{""item_name"": ""A4 paper"", ""quantity"": 500, ""unit_price"": 0.05}, {""item_name"": ""220 gsm poster paper"", ""quantity"": 1000, ""unit_price"": 0.35}, {""item_name"": ""Large poster paper (24x36 inches)"", ""quantity"": 300, ""unit_price"": 1.0}, {""item_name"": ""Cardstock"", ""quantity"": 200, ""unit_price"": 0.15}]}"
+8,2025-04-07,43351.91,6577.590000000001,"720, Thank you for your order! Here is your quote for the paper supplies requested:
+
+- Glossy paper: 500 sheets at $0.20 each
+- Matte paper: 1000 sheets at $0.18 each
+- Colored paper: 2000 sheets at $0.10 each
+- Recycled paper: 3000 sheets at $0.08 each
+
+Total amount before discounts: $720.00
+Total amount after discounts: $720.00
+
+We look forward to delivering your products by April 15, 2025!, {""request_date"": ""2025-04-07"", ""expected_delivery_date"": ""2025-04-15"", ""items"": [{""item_name"": ""Glossy paper"", ""quantity"": 500, ""unit_price"": 0.2}, {""item_name"": ""Matte paper"", ""quantity"": 1000, ""unit_price"": 0.18}, {""item_name"": ""Colored paper"", ""quantity"": 2000, ""unit_price"": 0.1}, {""item_name"": ""Recycled paper"", ""quantity"": 3000, ""unit_price"": 0.08}]}"
+9,2025-04-07,43351.91,6577.590000000001,"Ordering Error: Restock for 'Glossy paper' arrives on 2025-04-11, which is after the expected delivery 2025-04-10."
+13,2025-04-08,43351.91,6577.590000000001,"Ordering Error: Insufficient stock for 'Wrapping paper': requested 500, available 367. Earliest restock date is 2025-04-12."
+12,2025-04-08,43343.71000000001,6575.590000000001,"126, Thank you for your order! You are purchasing the following items:
+
+- 200 sheets of Cardstock at $0.15 each
+- 500 sheets of Glossy paper at $0.18 each (discounted from $0.20)
+- 100 Paper napkins at $0.018 each (discounted from $0.02)
+
+This brings your order total to $132 before discounts. After applying the discounts, your total comes to $126, and we rounded it to a friendly amount of $126. We appreciate your business and look forward to serving you!, {""request_date"": ""2025-04-08"", ""expected_delivery_date"": ""2025-04-15"", ""items"": [{""item_name"": ""Cardstock"", ""quantity"": 200, ""unit_price"": 0.15}, {""item_name"": ""Glossy paper"", ""quantity"": 500, ""unit_price"": 0.2}, {""item_name"": ""Paper napkins"", ""quantity"": 100, ""unit_price"": 0.02}]}"
+10,2025-04-08,43330.71000000001,6575.590000000001,"132, Thank you for your order! Below is the quote for the paper supplies you requested for delivery by April 15, 2025:
+
+1. 500 sheets of Glossy paper at $0.18 each: $90.00
+2. 300 sheets of Cardstock at $0.14 each: $42.00
+
+**Total before discounts:** $145.00
+**Discounted Total:** $132.00
+
+We look forward to serving you!, {""request_date"": ""2025-04-08"", ""expected_delivery_date"": ""2025-04-15"", ""items"": [{""item_name"": ""Glossy paper"", ""quantity"": 500, ""unit_price"": 0.2}, {""item_name"": ""Cardstock"", ""quantity"": 300, ""unit_price"": 0.15}]}"
+11,2025-04-08,43376.71000000001,6521.590000000001,"147, Thank you for your order! Here are the details for your upcoming exhibition:
+- 500 sheets of A3 Glossy Paper at $0.19 each
+- 300 sheets of A4 Matte Paper at $0.17 each
+
+The total before discounts was $154. After applying our pricing strategy, your total is now $147. We look forward to serving you!, {""request_date"": ""2025-04-08"", ""expected_delivery_date"": ""2025-04-15"", ""items"": [{""item_name"": ""Glossy paper"", ""quantity"": 500, ""unit_price"": 0.2}, {""item_name"": ""Matte paper"", ""quantity"": 300, ""unit_price"": 0.18}]}"
+14,2025-04-09,43376.71000000001,6521.590000000001,"{""status"": ""clarification_required"", ""reason"": ""Some items could not be confidently matched to inventory."", ""unknown_items"": [{""requested"": ""poster paper"", ""suggestions"": [""220 gsm poster paper""]}]}"
+15,2025-04-12,43376.71000000001,6521.590000000001,"{""status"": ""clarification_required"", ""reason"": ""Some items could not be confidently matched to inventory."", ""unknown_items"": [{""requested"": ""A3 colored paper"", ""suggestions"": [""Colored paper""]}, {""requested"": ""cardboard"", ""suggestions"": [""Cardstock"", ""Patterned paper"", ""250 gsm cardstock""]}]}"
+16,2025-04-13,43376.71000000001,6521.590000000001,"Ordering Error: Insufficient stock for 'Glossy paper': requested 500, available 337. Earliest restock date is 2025-04-17."
+17,2025-04-14,43376.71000000001,6521.590000000001,"Ordering Error: Insufficient stock for 'Glossy paper': requested 1000, available 337. Earliest restock date is 2025-04-18."
+18,2025-04-14,43376.71000000001,6521.590000000001,"Ordering Error: Insufficient stock for 'Cardstock': requested 500, available 195. Earliest restock date is 2025-04-18."
+19,2025-04-15,43376.71000000001,6521.590000000001,"Ordering Error: Insufficient stock for 'Glossy paper': requested 2000, available 337. Earliest restock date is 2025-04-22."
+20,2025-04-17,43376.71000000001,6521.590000000001,"{""status"": ""clarification_required"", ""reason"": ""Some items could not be confidently matched to inventory."", ""unknown_items"": [{""requested"": ""posters"", ""suggestions"": [""Photo paper"", ""220 gsm poster paper"", ""Glossy paper""]}, {""requested"": ""tickets"", ""suggestions"": [""Sticky notes"", ""Table covers"", ""Notepads""]}]}"
