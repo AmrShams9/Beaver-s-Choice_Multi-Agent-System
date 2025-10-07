@@ -1,7 +1,12 @@
 🦫 BeaverChoice – Multi-Agent Order Processing System
-![System Test Screenshot](Screenshot%202025-09-28%20175831.png)
 
 📖 Project Overview
+
+
+
+
+
+![System Test Screenshot](Screenshot%202025-09-28%20175831.png)
 
 BeaverChoice is a multi-agent order processing system that simulates real-world workflows for handling customer requests. It leverages a modular agent-based architecture to process orders from request to transaction, ensuring scalability, maintainability, and extensibility.
 
